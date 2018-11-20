@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1542684095 source:c:\users\rd\desktop\cb_opencv249_rgb2gray\main.cpp
+1542685152 source:c:\users\rd\desktop\cb_opencv249_rgb2gray\main.cpp
 	<opencv2/core/core.hpp>
 	<opencv2/highgui/highgui.hpp>
 	<opencv2/imgproc/imgproc.hpp>
